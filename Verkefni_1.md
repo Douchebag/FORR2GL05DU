@@ -1,2 +1,3 @@
 # Verkefni 1
 1. Game loop er lykkja sem keyrir stanslaust á meðan leikur er í gang. Hvert skipti sem lykkjan er keyrð þarf hún að process-a user input, uppfæra stöðu leiksins og render-a leikinn. Lykkjan þarf að halda utan um tímann til að stjórna rate-inu af gameplay-inu og lykkjan þarf að keyra leikinn á stöðugum hraða þrátt fyrir mismun í vélbúnaði.
+2. Leikjavél er framework fyrir leikjaþróun sem styður nokkra nauðsynlega hluti. Þú getur import-að teikningum og hönnunum, 2D og 3D frá öðrum hugbúnaði s.s. Photoshop og bætt þeim í senur og umhverfi. Þú getur líka bætt við lýsingu, hljóði, special effects, physics og animation, gagnvirkni, og gameplay logic-i. Þú getur líka edit-að, debug-að og optimize-að content-ið fyrir platform-in sem þú ert að miða fyrir.
