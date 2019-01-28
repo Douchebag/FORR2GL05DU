@@ -35,4 +35,15 @@ BOOL TestAABBOverlap(AABB* a, AABB* b)
     return TRUE;
 }
 ```
-
+4. Asset eru hlutir og tól sem hægt er að import-a og nota í project-um.
+5. Game objects eru hlutir sem hægt er að setja inn í scene-ið og hægt er að breyta hvernig þeir bregðast við með því að breyta og bæta við components.
+6. Prefab er einskonar template sem þú geymir yfirleitt game objects með component-unum þeirra.
+7. Mesh samanstendur af þríhyrningum í 3d umhverfi til að birta hlut í föstu formi.
+8. tags & layers er component í inspector-inum til að assign-a hlutum tags og layers. Þú gætir t.d. sett tag á hluti sem player-inn á að geta tekið upp. 
+9. 
+    a. Scene view er það sem þú notar til að setja upp scenes og breyta öllum objects og components til að líta út eins og þú villt að allt lítur út. 
+    b. Game view er notað til að prufu-keyra leikinn þinn. 
+    c. Í project glugganum er yfirleitt geymt assets sem þú gætir dregið inn í scene-ið hvenær sem er. 
+    d. Hierarchy er glugginn sem heldur utan um allt sem sett er inn í scene-ið. 
+    e. Inspector glugginn er notaðir til að breyta/bæta við/eyða components á object-um.
+10.
