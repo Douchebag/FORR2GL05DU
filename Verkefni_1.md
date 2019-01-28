@@ -46,4 +46,4 @@ BOOL TestAABBOverlap(AABB* a, AABB* b)
     3. Í project glugganum er yfirleitt geymt assets sem þú gætir dregið inn í scene-ið hvenær sem er. 
     4. Hierarchy er glugginn sem heldur utan um allt sem sett er inn í scene-ið. 
     5. Inspector glugginn er notaðir til að breyta/bæta við/eyða components á object-um.
-10. https://github.com/Douchebag/leikf_v1
+10. https://github.com/Douchebag/lf1_v1
